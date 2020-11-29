@@ -1,3 +1,2 @@
 # Adventskalender
-****************
-*für Mama
+für Mama
