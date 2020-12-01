@@ -1,9 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&family=Kalam:wght@300&family=Special+Elite&display=swap');
+
 *
 {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     font-family: Arial, Helvetica, sans-serif;
+}
+.fontKalam
+{
+    font-family: 'Kalam', cursive;
+}
+.fontElite
+{
+    font-family: 'Special Elite', cursive;
+}
+.fontAmatic
+{
+    font-family: 'Amatic SC', cursive;
 }
 body
 {
